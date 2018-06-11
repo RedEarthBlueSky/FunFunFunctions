@@ -1,0 +1,19 @@
+{
+  "name": "funfunfunctions",
+  "version": "1.0.0",
+  "description": "Fun with functions ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedEarthBlueSky/FunFunFunctions.git"
+  },
+  "author": "Ian Salt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedEarthBlueSky/FunFunFunctions/issues"
+  },
+  "homepage": "https://github.com/RedEarthBlueSky/FunFunFunctions#readme"
+}
